@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**akhaire21/akhaire21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Archita from North Carolina, currently studying CS & Math at Massachusetts Institute of Technology. I love to explore and learn about new things.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python (pandas, scikit-learn, matplotlib), R, C
+- **Data Analysis:** Data mining and scraping, data analysis, data visualization, feature engineering
+- **Machine Learning:** Scikit-learn Classification and Regression models,  Ensemble Learning, Neural Networks, Natural Language Processing
+- **Other:** Cluster computing (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Honors and Awards
+- **Regeneron STS Scholar (2023)**
+- **American Academy of Neurology’s Neuroscience Research Prize Recipient (2022)**
+- **International Science and Engineering Fair (ISEF) 4th Place Grand Award (2022)**
+- **USA Biology Olympiad Semifinalist (2022)**
+- **Conrad Innovation Challenge Finalist and Power Pitch Winner (2022)**
+- **National NCWIT Honorable Mention (2022)**
