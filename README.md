@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi!
 
-I'm Archita from North Carolina, currently studying CS & Math at Massachusetts Institute of Technology. I love to explore and learn about new things.
+I'm Archita, from North Carolina and currently studying CS & Math at the Massachusetts Institute of Technology.
 
 ## Skills
 - **Programming Languages:** Python (pandas, scikit-learn, matplotlib), R, C, Assembly
